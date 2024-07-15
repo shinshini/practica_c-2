@@ -1,0 +1,6 @@
+F:\ejercicio shardepvelop\Proyecto_practica2\bin\Debug\Proyecto_practica2.exe.config
+F:\ejercicio shardepvelop\Proyecto_practica2\bin\Debug\Proyecto_practica2.exe
+F:\ejercicio shardepvelop\Proyecto_practica2\bin\Debug\Proyecto_practica2.pdb
+F:\ejercicio shardepvelop\Proyecto_practica2\obj\Debug\Proyecto_practica2.csprojResolveAssemblyReference.cache
+F:\ejercicio shardepvelop\Proyecto_practica2\obj\Debug\Proyecto_practica2.exe
+F:\ejercicio shardepvelop\Proyecto_practica2\obj\Debug\Proyecto_practica2.pdb
